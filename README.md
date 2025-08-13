@@ -52,7 +52,7 @@ This is a simple **Simon Says game clone** built using **HTML, CSS, and JavaScri
 
 ## 🌐 Live Demo
 
-[Click here to play the game](https://gaurii-patil.github.io/simon-says-game/)
+[Click here to play the game](https://simon-says-game-iota-eight.vercel.app/)
 
 ---
 
